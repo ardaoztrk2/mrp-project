@@ -1,0 +1,32 @@
+{
+  "name": "mrp-uretim-sistemi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "��#\u0000 \u0000m\u0000r\u0000p\u0000-\u0000u\u0000r\u0000e\u0000t\u0000i\u0000m\u0000-\u0000s\u0000i\u0000s\u0000t\u0000e\u0000m\u0000i\u0000\r\u0000 \u0000",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "colors": "^1.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0",
+    "express-async-handler": "^1.2.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.16.1",
+    "nodemailer": "^7.0.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ardaoztrk2/mrp-uretim-sistemi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ardaoztrk2/mrp-uretim-sistemi/issues"
+  },
+  "homepage": "https://github.com/ardaoztrk2/mrp-uretim-sistemi#readme"
+}
